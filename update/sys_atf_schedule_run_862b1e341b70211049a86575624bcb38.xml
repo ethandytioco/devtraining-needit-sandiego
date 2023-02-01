@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version/>
+        <description>Run suite 'NeedIt App' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="NeedIt App Suites">ad0b5a341b70211049a86575624bcbd9</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-01 14:06:47</sys_created_on>
+        <sys_id>862b1e341b70211049a86575624bcb38</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_862b1e341b70211049a86575624bcb38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-01 14:44:32</sys_updated_on>
+        <test_suite display_value="NeedIt App">82981ba21b24211049a86575624bcbdc</test_suite>
+        <watch_list>r6ys9o+9rhki37b1jz8s@guerrillamail.com,gamersRise@guerrillamail.com,r6yu8n+700uw5f42fu336xc@guerrillamail.com</watch_list>
+    </sys_atf_schedule_run>
+</record_update>
